@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./animals"
+	"github.com/yszk0123/starting-go/zoo/animals"
 )
 
 func main() {
